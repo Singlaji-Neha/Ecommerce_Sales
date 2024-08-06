@@ -10,6 +10,6 @@ Introduction
 E-commerce Sales Analysis is designed to help businesses understand their sales data better. By utilizing Power BI for data visualization, this project provides interactive dashboards that enable users to explore and analyze their sales data effectively.
 
 Features
-Data Extraction: Scripts to extract data from various sources.
-Data Transformation: Clean and transform data for analysis.
-Interactive Dashboards: Power BI dashboards to visualize sales performance, customer behavior, and product trends.
+- Data Extraction: Scripts to extract data from various sources.
+- Data Transformation: Clean and transform data for analysis.
+- Interactive Dashboards: Power BI dashboards to visualize sales performance, customer behavior, and product trends.
